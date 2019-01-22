@@ -6,7 +6,7 @@ The `tinydir_vendor` package was released.
 
 Version of package(s) in repository `tinydir_vendor`:
 
-- upstream repository: https://github.com/aws-robotics/vendored-tinydir.git
+- upstream repository: https://github.com/ros2/tinydir_vendor.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
